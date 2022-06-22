@@ -1,0 +1,12 @@
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\AspNetApiGames\XboxGamesApi\XboxGamesApi\Src\Core\bin\Debug\net5.0\Core.deps.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\AspNetApiGames\XboxGamesApi\XboxGamesApi\Src\Core\bin\Debug\net5.0\Core.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\AspNetApiGames\XboxGamesApi\XboxGamesApi\Src\Core\bin\Debug\net5.0\ref\Core.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\AspNetApiGames\XboxGamesApi\XboxGamesApi\Src\Core\bin\Debug\net5.0\Core.pdb
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\AspNetApiGames\XboxGamesApi\XboxGamesApi\Src\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\AspNetApiGames\XboxGamesApi\XboxGamesApi\Src\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\AspNetApiGames\XboxGamesApi\XboxGamesApi\Src\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\AspNetApiGames\XboxGamesApi\XboxGamesApi\Src\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\AspNetApiGames\XboxGamesApi\XboxGamesApi\Src\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\AspNetApiGames\XboxGamesApi\XboxGamesApi\Src\Core\obj\Debug\net5.0\Core.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\AspNetApiGames\XboxGamesApi\XboxGamesApi\Src\Core\obj\Debug\net5.0\ref\Core.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\AspNetApiGames\XboxGamesApi\XboxGamesApi\Src\Core\obj\Debug\net5.0\Core.pdb
