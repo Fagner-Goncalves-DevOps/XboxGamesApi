@@ -1,6 +1,6 @@
 # Web Api Api projeto vendas xbox
 
-Projeto sendo implementação, inicio da criação das camadas
+Projeto sendo implementado, inicio da criação das camadas
 
 
 ## Que já foi implementado :
