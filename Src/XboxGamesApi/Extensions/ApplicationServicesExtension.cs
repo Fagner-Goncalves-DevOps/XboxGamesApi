@@ -1,4 +1,5 @@
 ﻿using Core.Interfaces;
+using Infrastructure.Data;
 using Infrastructure.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
@@ -18,7 +19,8 @@ namespace XboxGamesApi.Extensions
             // caching needs to be singleton for any request
 
             services.AddScoped<ITokenService, TokenService>();
-
+            services.AddScoped<IProdutoRepository, ProdutoRepository>();
+            services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 
             services.Configure<ApiBehaviorOptions>(options => {
                 options.InvalidModelStateResponseFactory = ActionContext =>

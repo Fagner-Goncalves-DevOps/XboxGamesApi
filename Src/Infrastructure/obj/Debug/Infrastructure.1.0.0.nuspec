@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Infrastructure</id>
+    <version>1.0.0</version>
+    <authors>Infrastructure</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Core" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Identity" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Identity.EntityFrameworkCore" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\ProgramData\Temporario\GitHubGeral\AspNetCore\AspNetApiGames\XboxGamesApi\XboxGamesApi\Src\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json" target="lib\net5.0\Infrastructure.runtimeconfig.json" />
+    <file src="C:\ProgramData\Temporario\GitHubGeral\AspNetCore\AspNetApiGames\XboxGamesApi\XboxGamesApi\Src\Infrastructure\bin\Debug\net5.0\Infrastructure.dll" target="lib\net5.0\Infrastructure.dll" />
+  </files>
+</package>

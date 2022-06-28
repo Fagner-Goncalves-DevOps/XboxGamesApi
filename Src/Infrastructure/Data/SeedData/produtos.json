@@ -1,0 +1,162 @@
+[
+  {
+    "Nome": "Cyberpunk 2077",
+    "Descricao": "Cyberpunk 2077 é um jogo eletrônico de RPG de ação desenvolvido e publicado pela CD Projekt. Lançado em 10 de dezembro de 2020 para Google Stadia, Microsoft Windows, PlayStation 4 e Xbox One, e previsto para 2021 para PlayStation 5 e Xbox Series X/S, sendo que nesses já está disponível via retrocompatibilidade.",
+    "Preco": 3500,
+    "PictureUrl": "images/protudos/Cyberpunk-1.png",
+    "ProdutoTipoId": 4,
+    "ProdutoGeneroId": 1
+  },
+  {
+    "Nome": "Assassin's Creed Valhalla",
+    "Descricao": "Assassin's Creed Valhalla é um jogo eletrônico de RPG de ação desenvolvido pela Ubisoft Montreal e publicado pela Ubisoft.",
+    "Preco": 3375,
+    "PictureUrl": "images/protudos/Assassin-2.png",
+    "ProdutoTipoId": 3,
+    "ProdutoGeneroId": 1
+  },
+  {
+    "Nome": "Red Dead Redemption 2",
+    "Descricao": "Red Dead Redemption 2 é um jogo eletrônico de ação-aventura desenvolvido e publicado pela Rockstar Games. É o terceiro título da série Red Dead e uma prequela de Red Dead Redemption, tendo sido lançado em outubro de 2018 para PlayStation 4 e Xbox One e em novembro de 2019 para Microsoft Windows e Google Stadia.",
+    "Preco": 3375,
+    "PictureUrl": "images/protudos/RedDead3-3.png",
+    "ProdutoTipoId": 2,
+    "ProdutoGeneroId": 1
+  },
+  {
+    "Nome": "Final Fantasy XV",
+    "Descricao": "Final Fantasy XV é um jogo eletrônico de RPG de ação desenvolvido e publicado pela Square Enix. Ele foi lançado mundialmente no dia 29 de novembro de 2016 para as plataformas PlayStation 4 e Xbox One.",
+    "Preco": 4249,
+    "PictureUrl": "images/protudos/ff15-1.png",
+    "ProdutoTipoId": 4,
+    "ProdutoGeneroId": 2
+  },
+  {
+    "Nome": "Final Fantasy VII Remake",
+    "Descricao": "Final Fantasy VII Remake é um jogo eletrônico de RPG de ação desenvolvido e publicado pela Square Enix. É um título da série Final Fantasy e uma recriação de Final Fantasy VII, tendo sido lançado para PlayStation 4 em 10 de abril de 2020.",
+    "Preco": 3499,
+    "PictureUrl": "images/protudos/ff7-2.png",
+    "ProdutoTipoId": 1,
+    "ProdutoGeneroId": 2
+  },
+  {
+    "Nome": "Dragon Quest XI",
+    "Descricao": "Dragon Quest XI: Echoes of an Elusive Age é um jogo eletrônico de RPG desenvolvido e publicado pela Square Enix.",
+    "Preco": 3499,
+    "PictureUrl": "images/protudos/Dragon-3.png",
+    "ProdutoTipoId": 4,
+    "ProdutoGeneroId": 2
+  },
+  {
+    "Nome": "Horizon Zero Dawn",
+    "Descricao": "Horizon Zero Dawn é um jogo eletrônico de RPG de ação pós-apocalíptico em um mundo aberto, desenvolvido pela Guerrilla Games, apresentado em 2015 na conferencia da Sony na feira E3 e lançado em 28 de fevereiro de 2017 para o console PlayStation 4 e em 7 de agosto de 2020 para o sistema Microsoft Windows.",
+    "Preco": 2392,
+    "PictureUrl": "images/protudos/Horizon-1.png",
+    "ProdutoTipoId": 3,
+    "ProdutoGeneroId": 3
+  },
+  {
+    "Nome": "Dark Souls",
+    "Descricao": "A série Souls refere-se a um conjunto de videojogos do género role-playing game de acção, criados e produzidos pela companhia japonesa FromSoftware. O primeiro jogo da série, Demon's Souls, foi lançado em 2009 em exclusivo para a PlayStation 3.",
+    "Preco": 3000,
+    "PictureUrl": "images/protudos/victor_shoe-2.png",
+    "ProdutoTipoId": 1,
+    "ProdutoGeneroId": 3
+  },
+  {
+    "Nome": "Back 4 Blood",
+    "Descricao": "Back 4 Blood é um jogo eletrônico de tiro em primeira pessoa desenvolvido pela Turtle Rock Studios e publicado pela Warner Bros. Interactive Entertainment. Foi lançado em 12 de outubro de 2021 para Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One e Xbox Series X/S. ",
+    "Preco": 2590,
+    "PictureUrl": "images/protudos/Back4-1.png",
+    "ProdutoTipoId": 1,
+    "ProdutoGeneroId": 4
+  },
+  {
+    "Nome": "Resident Evil Village",
+    "Descricao": "Resident Evil: Village, conhecido no Japão como Biohazard: Village é um jogo eletrônico de survival horror desenvolvido e publicado pela Capcom. É a sequência de Resident Evil 7: Biohazard, de 2017, e foi anunciado pela primeira vez no evento de revelação do PlayStation 5 em 11 de junho de 2020.",
+    "Preco": 3500,
+    "PictureUrl": "images/protudos/Resident-2.png",
+    "ProdutoTipoId": 3,
+    "ProdutoGeneroId": 4
+  },
+  {
+    "Nome": "Outlast 2",
+    "Descricao": "Outlast 2 é um jogo eletrônico de survival horror em primeira pessoa desenvolvido e publicado pela Red Barrels para Microsoft Windows, PlayStation 4 e Xbox One em 25 de abril de 2017.",
+    "Preco": 3700,
+    "PictureUrl": "images/protudos/Outlast-3.png",
+    "ProdutoTipoId": 2,
+    "ProdutoGeneroId": 4
+  },
+  {
+    "Nome": "Call of Duty: Warzone",
+    "Descricao": "Call of Duty: Warzone é um jogo eletrônico free-to-play do gênero battle royale desenvolvido pela Infinity Ward e Raven Software e publicado pela Activision. Lançado em 10 de março de 2020 para Microsoft Windows, PlayStation 4 e Xbox One, o jogo faz parte do título Call of Duty: Modern Warfare, mas não requer compra. ",
+    "Preco": 4999,
+    "PictureUrl": "images/protudos/cod-1.png",
+    "ProdutoTipoId": 3,
+    "ProdutoGeneroId": 5
+  },
+  {
+    "Nome": "Dying Light 2 Stay Human",
+    "Descricao": "Dying Light 2 Stay Human é um jogo eletrônico de ação e survival horror com elementos de RPG desenvolvido pela Techland e publicado pela Techland Publishing.",
+    "Preco": 5200,
+    "PictureUrl": "images/protudos/Dying-2.png",
+    "ProdutoTipoId": 4,
+    "ProdutoGeneroId": 5
+  },
+  {
+    "Nome": "Counter-Strike: Global Offensive",
+    "Descricao": "Counter-Strike: Global Offensive é um jogo online desenvolvido pela Valve Corporation e pela Hidden Path Entertainment, sendo uma sequência de Counter-Strike: Source. É o quarto título principal da franquia.",
+    "Preco": 5700,
+    "PictureUrl": "images/protudos/csgo-3.png",
+    "ProdutoTipoId": 3,
+    "ProdutoGeneroId": 5
+  },
+  {
+    "Nome": "Diablo IV",
+    "Descricao": "Diablo IV é um RPG de ação em desenvolvimento pela Blizzard Entertainment, o quarto título da série Diablo. Em 1.º de novembro de 2019, durante a Blizzcon, o jogo foi oficialmente anunciado para PC, PlayStation 4 e Xbox One.",
+    "Preco": 1525,
+    "PictureUrl": "images/protudos/Diablo-1.png",
+    "ProdutoTipoId": 1,
+    "ProdutoGeneroId": 6
+  },
+  {
+    "Nome": "ARK: Survival Evolved",
+    "Descricao": "Ark: Survival Evolved é um jogo eletrônico de ação-aventura e sobrevivência desenvolvido pela Studio Wildcard, em colaboração com Instinct Games, Efecto Studios e Virtual Basement.",
+    "Preco": 1525,
+    "PictureUrl": "images/protudos/ARK.png",
+    "ProdutoTipoId": 3,
+    "ProdutoGeneroId": 6
+  },
+  {
+    "Nome": "Aion: The Tower of Eternity",
+    "Descricao": "Aion: Ereshkigal's Wrath é um MMORPG criado pela NCSoft. Já foi lançado na Coreia do Sul e na China. O jogo esta nas lojas americanas desde 22 de Setembro de 2009 e europeias no dia 25 do mesmo mês. No Brasil, se o jogador quiser ter acesso a versão Norte-Americana, terá que pagar uma taxa.",
+    "Preco": 1450,
+    "PictureUrl": "images/protudos/Aion.png",
+    "ProdutoTipoId": 2,
+    "ProdutoGeneroId": 6
+  },
+  {
+    "Nome": "Microsoft Flight Simulator",
+    "Descricao": "O Microsoft Flight Simulator Game of the Year Edition oferece 25 aviões detalhados, 38 aeroportos feitos à mão, 6 novos voos de descoberta ",
+    "Preco": 4125,
+    "PictureUrl": "images/protudos/babolat_shoe-1.png",
+    "ProdutoTipoId": 1,
+    "ProdutoGeneroId": 7
+  },
+  {
+    "Nome": "DayZ",
+    "Descricao": "DayZ, originalmente DayZ Standalone, é um jogo eletrônico multijogador em mundo aberto desenvolvido pelo estúdio checo Bohemia Interactive Studio. DayZ Standalone é uma adaptação e sucessor do DayZ mod de 2012 que foi originalmente criado para o jogo ARMA 2, também desenvolvido pela Bohemia Interactive.",
+    "Preco": 5249,
+    "PictureUrl": "images/protudos/DayZ.png",
+    "ProdutoTipoId": 2,
+    "ProdutoGeneroId": 7
+  },
+  {
+    "Nome": "The Sims 5",
+    "Descricao": "The Sims 5 é o futuro jogo de simulação da EA Games e que será uma sequência do The Sims 4. O título ainda não tem data de lançamento anunciada, mas contará com modo online, tornando possível o multiplayer. Sem requisitos e Preco confirmado, o jogo deve chegar disponível para download no.",
+    "Preco": 2999,
+    "PictureUrl": "images/protudos/Sims.png",
+    "ProdutoTipoId": 2,
+    "ProdutoGeneroId": 7
+  }
+]
