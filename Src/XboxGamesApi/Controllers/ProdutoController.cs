@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Core.Entities;
 using Core.Interfaces;
+using Core.Specifications;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -8,6 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using XboxGamesApi.DTOs;
+using XboxGamesApi.Errors;
 
 namespace XboxGamesApi.Controllers
 {
@@ -32,7 +34,18 @@ namespace XboxGamesApi.Controllers
             _mapper = mapper;
         }
 
-        //implementar visões ainda especializadas 
+
+        [HttpGet("{id}")]
+        public async Task<ActionResult<ProdutoDto>> PegarProduto(int id) 
+        {
+            var spec = new ProdutoComTiposEGeneroSpec(id);
+            var produto = await _produtoRepository.GetEntityWithSpec(spec);
+
+            if (produto == null) return NotFound(new APIResponse(404));
+            return _mapper.Map<Produto, ProdutoDto>(produto);     //implementar e configurar o aoutmapper para testar 
+
+                    
+        }
 
 
 
